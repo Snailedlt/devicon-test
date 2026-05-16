@@ -13825,6 +13825,17 @@
         "color": "#fcc72b",
         "aliases": []
     },
+	{
+		"name": "vlang",
+		"altnames": ["v"],
+		"tags": ["programming language", "systems"],
+		"versions": {
+			"svg": ["original", "plain"],
+			"font": ["plain"]
+		},
+		"color": "#5D87BF",
+		"aliases": []
+	},
     {
         "name": "vscode",
         "altnames": [
